@@ -5,3 +5,23 @@ div {
 	text-align: center;
 	font-weight: bold;
 }
+
+#blue-text {
+	color: #0000ff;
+}
+
+#bold-text {
+	font-weight: bold;
+}
+
+.red-bg {
+	background-color: #ff8181;
+}
+
+.lg-text {
+	font-size: 32px;
+}
+
+.md-text {
+	font-size: 28px;
+}
